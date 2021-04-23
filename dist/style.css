@@ -1,0 +1,14 @@
+body {
+  background-color: #2f55a4;
+}
+body button {
+  background-color: #9e3571;
+}
+body p {
+  background-color: #d38d00;
+}
+body div {
+  text-align: center;
+  padding: 30px;
+  border: 3px solid #d38d00;
+}

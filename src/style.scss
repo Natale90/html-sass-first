@@ -1,0 +1,22 @@
+$pravlent-color: #2f55a4;
+$secondary-color: #9e3571;
+$another-color-1: #d38d00;
+
+
+body{
+  background-color: $pravlent-color;
+
+  button{
+    background-color: $secondary-color;
+  }
+
+  p{
+    background-color: $another-color-1;
+  }
+
+  div{
+    text-align: center;
+    padding: 30px;
+    border: 3px solid $another-color-1;
+  }
+}
